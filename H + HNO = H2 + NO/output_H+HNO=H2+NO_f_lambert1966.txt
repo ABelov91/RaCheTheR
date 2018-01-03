@@ -1,0 +1,4 @@
+Reference: Lambert, R.M. // J. Chem. Soc. Chem. Commun. 1966, 850.
+Systematic error = -2.311, total error = 2.311
+Data: T, lg K
+296.0 10.431

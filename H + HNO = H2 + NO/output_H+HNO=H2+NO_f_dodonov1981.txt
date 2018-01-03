@@ -1,0 +1,4 @@
+Reference: Dodonov, A.F.; Zelenov, V.V.; Strunin, V.P.; Talroze, V.L. // Kinet. Catal. 22 (1981), 689.
+Systematic error = 1.151, total error = 1.151
+Data: T, lg K
+295.0 13.894

@@ -1,0 +1,4 @@
+Reference: Smith, M.Y. // Combust. Flame. 18 (1972), 293.
+Systematic error = -0.372, total error = 0.372
+Data: T, lg K
+2100.0 12.371
