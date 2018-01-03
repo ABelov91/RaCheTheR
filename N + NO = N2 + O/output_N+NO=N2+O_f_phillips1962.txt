@@ -1,0 +1,4 @@
+Reference: Phillips, L.F.; Schiff, H.I. // J. Chem. Phys. 36 (1962), 1509.
+Systematic error = -0.107, total error = 0.107
+Data: T, lg K
+300.0 12.558

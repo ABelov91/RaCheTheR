@@ -1,0 +1,6 @@
+Reference: Koshi, M.; Yoshimura, M.; Fukuda, K.; Matsui, H. // J. Chem. Phys. 93 (1990), 8703.
+Systematic error = 0.480, total error = 0.481
+Data: T, lg K
+1600.0 13.176
+1997.0 13.114
+2285.0 13.146

@@ -1,0 +1,11 @@
+Reference: Fujii, N.; Uchida, S.; Sato, H.; Fujimoto, S.; Miyama, H. // Bull. Chem. Soc. Jpn. 59 (1986), 3431.
+Systematic error = -0.271, total error = 0.281
+Data: T, lg K
+2032.5 8.540
+1953.1 8.120
+1865.7 8.000
+1805.1 7.690
+1697.8 7.250
+1683.5 7.100
+1587.3 6.600
+1562.5 6.520

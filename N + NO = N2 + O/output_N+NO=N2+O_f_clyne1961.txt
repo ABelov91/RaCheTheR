@@ -1,0 +1,8 @@
+Reference: Clyne, M.A.A.; Thrush, B.A. // Nature (London). 189 (1961), 56.
+Systematic error = -5.456, total error = 5.519
+Data: T, lg K
+755.0 8.257
+665.5 7.842
+610.3 7.416
+537.6 6.553
+476.0 5.979

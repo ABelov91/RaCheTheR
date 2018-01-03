@@ -1,0 +1,5 @@
+Reference: Wategaonkar, S.J.; Setser, D.W. // J. Chem. Phys. 90 (1989), 251.
+Systematic error = -0.043, total error = 0.065
+Data: T, lg K
+300.0 13.855
+300.0 13.953

@@ -1,0 +1,4 @@
+Reference: Herron, J.T. // J. Chem. Phys. 35 (1961), 1138.
+Systematic error = 0.335, total error = 0.335
+Data: T, lg K
+300.0 13.000

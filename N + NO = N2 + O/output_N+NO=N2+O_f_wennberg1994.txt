@@ -1,0 +1,11 @@
+Reference: Wennberg, P.O.; Anderson, J.G.; Weisenstein, D.K. // J. Geophys. Res. 99 (1994), 18839.
+Systematic error = 0.704, total error = 0.705
+Data: T, lg K
+369.0 13.298
+334.0 13.326
+298.0 13.342
+273.0 13.346
+253.0 13.375
+237.0 13.402
+228.0 13.421
+213.0 13.439

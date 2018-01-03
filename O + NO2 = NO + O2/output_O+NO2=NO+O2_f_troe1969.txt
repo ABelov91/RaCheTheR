@@ -1,0 +1,4 @@
+Reference: Troe, J. // Ber. Bunsenges. Phys. Chem. 73 (1969), 906.
+Systematic error = 0.002, total error = 0.002
+Data: T, lg K
+295.0 12.724

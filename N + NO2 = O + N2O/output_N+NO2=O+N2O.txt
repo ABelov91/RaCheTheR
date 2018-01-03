@@ -1,0 +1,3 @@
+Arrhenius parameters:
+lg A  = 12.6753 pm 0.0098 
+Confidence: mean deviation = -0.2504, mean squared deviation 1.0060 

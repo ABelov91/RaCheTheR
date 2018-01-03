@@ -1,0 +1,4 @@
+Reference: Addison, M.C.; Donovan, R.J.; Garraway, J. // Faraday Discuss. Chem. Soc. 1979, 286.
+Systematic error = 0.099, total error = 0.099
+Data: T, lg K
+300.0 12.821

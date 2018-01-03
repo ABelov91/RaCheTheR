@@ -1,0 +1,8 @@
+Reference: Endo, H.; Glaenzer, K.; Troe, J. // J. Phys. Chem. 83 (1979), 2083
+Systematic error = -0.144, total error = 0.364
+Data: T, lg K
+2000.0 9.061
+2000.0 8.602
+2000.0 8.322
+2000.0 8.217
+2000.0 8.146

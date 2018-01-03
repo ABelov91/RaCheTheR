@@ -1,0 +1,4 @@
+Arrhenius parameters:
+lg A  = 8.5643 pm 0.0071 
+E0 = 2.5465 pm 0.0097 eV 
+Confidence: mean deviation = -0.0871, mean squared deviation 0.9970 

@@ -1,0 +1,14 @@
+Reference: Rohrig, M.; Petersen, E.L.; Davidson, D.F.; Hanson, R.K. // Int. J. Chem. Kinet. 28 (1996). 599.
+Systematic error = -0.216, total error = 0.223
+Data: T, lg K
+2153.0 8.799
+2038.0 8.477
+2073.0 8.699
+2107.0 8.799
+3113.0 10.544
+1743.0 7.477
+2213.0 9.000
+1688.0 7.230
+1714.0 7.398
+1950.0 8.204
+2040.0 8.531

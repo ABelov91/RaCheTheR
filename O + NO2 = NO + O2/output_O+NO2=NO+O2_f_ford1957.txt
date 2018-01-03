@@ -1,0 +1,4 @@
+Reference: Ford, H.W.; Endow, N. // J. Chem. Phys. 27 (1957), 1156.
+Systematic error = -0.400, total error = 0.400
+Data: T, lg K
+300.0 12.322

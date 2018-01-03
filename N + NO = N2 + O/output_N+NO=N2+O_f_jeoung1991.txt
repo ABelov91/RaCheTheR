@@ -1,0 +1,4 @@
+Reference: Jeoung, S.C.; Choo, K.Y.; Benson, S.W. // J. Phys. Chem. 95 (1991), 7282.
+Systematic error = 0.495, total error = 0.495
+Data: T, lg K
+298.0 13.160

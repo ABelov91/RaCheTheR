@@ -1,0 +1,4 @@
+Reference: Howard, M.J.; Smith, I.W.M. // Chem. Phys. Lett. 69 (1980), 40.
+Systematic error = -0.001, total error = 0.001
+Data: T, lg K
+298.0 13.479

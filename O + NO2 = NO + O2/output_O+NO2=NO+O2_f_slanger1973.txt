@@ -1,0 +1,8 @@
+Reference: Slanger, T.G.; Wood, B.J.; Black, G. // Int. J. Chem. Kinet. 5 (1973), 615.
+Systematic error = 0.045, total error = 0.053
+Data: T, lg K
+239.0 12.813
+241.0 12.784
+296.0 12.762
+296.0 12.734
+296.0 12.744

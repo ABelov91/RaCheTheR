@@ -1,0 +1,7 @@
+Reference: Agrawalla, B.S.; Manocha, A.S.; Setser, D.W. // J. Phys. Chem. 85 (1981), 2873.
+Systematic error = -0.140, total error = 0.173
+Data: T, lg K
+300.0 13.637
+300.0 13.877
+300.0 13.821
+300.0 13.894

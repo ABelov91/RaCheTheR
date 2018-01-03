@@ -1,0 +1,8 @@
+Reference: Howard, M.J.; Smith, I.W.M. // J. Chem. Soc. Faraday Trans. 2. 77 (1981), 997.
+Systematic error = -0.010, total error = 0.040
+Data: T, lg K
+250.0 13.525
+300.0 13.456
+375.0 13.476
+445.0 13.485
+515.0 13.408

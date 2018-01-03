@@ -1,0 +1,4 @@
+Reference: Brunning, J.; Clyne, M.A.A. // J. Chem. Soc. Faraday Trans. 2. 80 (1984), 1001.
+Systematic error = 0.422, total error = 0.422
+Data: T, lg K
+295.0 13.087

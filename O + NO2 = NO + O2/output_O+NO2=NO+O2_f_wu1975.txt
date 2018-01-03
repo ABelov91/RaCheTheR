@@ -1,0 +1,4 @@
+Reference: Wu, C.H.; Niki, H. // Environ. Sci. Technol. 9 (1975), 46.
+Systematic error = 0.035, total error = 0.035
+Data: T, lg K
+300.0 12.757

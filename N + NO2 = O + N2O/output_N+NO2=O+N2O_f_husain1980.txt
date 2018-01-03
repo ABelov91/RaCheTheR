@@ -1,0 +1,4 @@
+Reference: Husain, D.; Slater N.K.H. // Chem. Soc. Faraday Trans. 2. 76 (1980), 606.
+Systematic error = 0.681, total error = 0.681
+Data: T, lg K
+300.0 13.362

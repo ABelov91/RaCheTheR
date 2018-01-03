@@ -1,0 +1,9 @@
+Reference: Ongstad, A.P.; Birks, J.W. // J. Chem. Phys. 85 (1986), 3359.
+Systematic error = 0.095, total error = 0.101
+Data: T, lg K
+354.0 12.767
+329.0 12.793
+298.0 12.793
+271.0 12.840
+248.0 12.852
+224.0 12.859

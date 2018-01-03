@@ -1,0 +1,4 @@
+Reference: Gershenzon, Yu.M.; Dementev, A.P.; Moin, F.B. // Bull. Acad. Sci. USSR Div. Chem. Sci. 21 (1972), 570.
+Systematic error = -0.120, total error = 0.120
+Data: T, lg K
+300.0 12.602

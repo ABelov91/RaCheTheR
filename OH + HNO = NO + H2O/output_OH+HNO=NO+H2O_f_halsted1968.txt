@@ -1,0 +1,4 @@
+Reference: Halstead, C.J.; Jenkins, D.R. // Chem. Phys. Lett. 2 (1968), 281.
+Systematic error = 0.082, total error = 0.082
+Data: T, lg K
+2000.0 13.572

@@ -1,0 +1,8 @@
+Reference: Bergeat, A. et al. // Phys. Chem. Chem. Phys. 11 (2009), 8149.
+Systematic error = 0.745, total error = 0.749
+Data: T, lg K
+211.0 13.298
+167.0 13.403
+124.0 13.423
+72.0 13.382
+48.0 13.543

@@ -1,0 +1,4 @@
+Reference: Dillon, T.J.; Blitz, M.A.; Heard, D.E. // J. Phys. Chem. A. 110 (2006), 6995.
+Systematic error = 0.026, total error = 0.026
+Data: T, lg K
+294.0 12.748
