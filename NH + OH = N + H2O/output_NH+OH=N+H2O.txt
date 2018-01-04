@@ -1,7 +1,7 @@
 Arrhenius parameters:
 lg A  = 13.5333 pm 0.0471 
 Confidence: mean deviation = -0.3532, mean squared deviation 0.9356 
-The approximation is constructed by virtual experiment method using the following known approximations:
+The approximation is constructed by the virtual experiment method using the following known approximations:
 Reference: Baulch et al. // J. Phys. Chem. Ref. Data. 34:3 (2005), 757.
 Estimated error = 0.319
 
