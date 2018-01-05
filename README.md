@@ -11,7 +11,7 @@ If any direct measurements of rate constants are available, they are given in se
 
 If there are no directly measured data, the approximations are constructed from known formulae via the virtual experiment method. In this case, corresponding references are provided in the primary file of the reaction.
 
-Supplementary graphical material includes comparison of Arrhenius factor (for exothermic reactions) or effective activation energy (for exothermic reactions). The proposed value is plotted as a solid line and literature values are given with markers (their abscissas are reference numbers in alphabetical order). The black error bars denotes the original error estimations and the red ones are the revised total errors. 
+Supplementary graphical material includes comparison of Arrhenius factor (for exothermic reactions) or effective activation energy (for endothermic reactions). The proposed value is plotted as a solid line and literature values are given with markers (their abscissas are reference numbers in alphabetical order). The black error bars denotes the original error estimations and the red ones are the revised total errors. 
 
 If direct experimental data are available, they are plotted in 1/T-lg K coordinates along with the proposed approximation (solid line).
 
