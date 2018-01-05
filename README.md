@@ -34,5 +34,6 @@ The thermonuclear part of the database includes the 4 major reactions accounted 
 The error estimations are obtained by the virtual experiment method.
 
 [1] NEA Data Bank – Nuclear Data Services. http://www.oecd-nea.org/janisweb/search/exfor
+
 [2] Belov A.A., Kalitkin N.N. // Comp. Math. and Math. Phys. 57:11 (2017), 1741–1750. DOI: 10.1134/S0965542517110033
 
