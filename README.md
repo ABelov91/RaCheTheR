@@ -15,7 +15,7 @@ Supplementary graphical material includes comparison of Arrhenius factor (for ex
 
 If direct experimental data are available, they are plotted in 1/T-lg K coordinates along with the proposed approximation (solid line).
 
-Error bars on all plots correspond to 1 standard deviation.
+Error bars in all plots correspond to 1 standard deviation.
 
 2)
 
