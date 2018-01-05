@@ -1,4 +1,4 @@
 Reference: Smith, M.Y. // Combust. Flame. 18 (1972), 293.
-Systematic error = -0.455, total error = 0.455
-Data: T, lg K
-2100.0 13.035
+Systematic error = -4.555e-01, total error = 4.555e-01
+lg T, eV; lg K
+-7.424e-01 1.304e+01

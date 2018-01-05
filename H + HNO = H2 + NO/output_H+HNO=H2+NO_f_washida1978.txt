@@ -1,4 +1,4 @@
 Reference: Washida, N.; Akimoto, H.; Okuda, M. // J. Phys. Chem. 82 (1978), 2293.
-Systematic error = -0.759, total error = 0.759
-Data: T, lg K
-300.0 11.984
+Systematic error = -7.588e-01, total error = 7.588e-01
+lg T, eV; lg K
+-1.587e+00 1.198e+01

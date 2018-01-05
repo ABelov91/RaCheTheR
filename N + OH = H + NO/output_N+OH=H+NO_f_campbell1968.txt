@@ -1,4 +1,4 @@
 Reference: Campbell, I.M.; Thrush, B.A. // Trans. Faraday Soc. 64 (1968), 1265.
-Systematic error = 0.133, total error = 0.133
-Data: T, lg K
-320.0 13.613
+Systematic error = 1.326e-01, total error = 1.326e-01
+lg T, eV; lg K
+-1.559e+00 1.361e+01

@@ -1,8 +1,8 @@
 Reference: Endo, H.; Glaenzer, K.; Troe, J. // J. Phys. Chem. 83 (1979), 2083
-Systematic error = -0.144, total error = 0.364
-Data: T, lg K
-2000.0 9.061
-2000.0 8.602
-2000.0 8.322
-2000.0 8.217
-2000.0 8.146
+Systematic error = -1.441e-01, total error = 3.635e-01
+lg T, eV; lg K
+-7.636e-01 9.061e+00
+-7.636e-01 8.602e+00
+-7.636e-01 8.322e+00
+-7.636e-01 8.217e+00
+-7.636e-01 8.146e+00

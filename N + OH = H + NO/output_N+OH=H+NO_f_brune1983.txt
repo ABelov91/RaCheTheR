@@ -1,4 +1,4 @@
 Reference: Brune, W.H.; Schwab, J.J.; Anderson, J.G. // J. Chem. Phys. 87 (1983), 4503.
-Systematic error = -0.077, total error = 0.077
-Data: T, lg K
-300.0 13.403
+Systematic error = -7.722e-02, total error = 7.722e-02
+lg T, eV; lg K
+-1.587e+00 1.340e+01

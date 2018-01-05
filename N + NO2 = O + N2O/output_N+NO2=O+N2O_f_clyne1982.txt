@@ -1,4 +1,4 @@
 Reference: Clyne, M.A.A.; Ono, Y. // Chem. Phys. 69 (1982), 381
-Systematic error = -0.424, total error = 0.424
-Data: T, lg K
-293.0 12.258
+Systematic error = -4.235e-01, total error = 4.235e-01
+lg T, eV; lg K
+-1.598e+00 1.226e+01

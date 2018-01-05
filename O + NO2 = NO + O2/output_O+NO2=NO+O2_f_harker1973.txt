@@ -1,4 +1,4 @@
 Reference: Harker, A.B.; Johnston, H.S. // J. Phys. Chem. 77 (1973), 1153.
-Systematic error = 0.021, total error = 0.021
-Data: T, lg K
-300.0 12.744
+Systematic error = 2.129e-02, total error = 2.129e-02
+lg T, eV; lg K
+-1.587e+00 1.274e+01

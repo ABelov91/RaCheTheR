@@ -1,4 +1,4 @@
 Reference: Takezaki, Y.; Mori, S. // Bull. Inst. Chem. Res. Kyoto Univ. 45 (1967), 388.
-Systematic error = -0.101, total error = 0.101
-Data: T, lg K
-303.0 12.621
+Systematic error = -1.011e-01, total error = 1.011e-01
+lg T, eV; lg K
+-1.583e+00 1.262e+01

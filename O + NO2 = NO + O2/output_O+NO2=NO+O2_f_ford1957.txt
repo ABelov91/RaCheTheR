@@ -1,4 +1,4 @@
 Reference: Ford, H.W.; Endow, N. // J. Chem. Phys. 27 (1957), 1156.
-Systematic error = -0.400, total error = 0.400
-Data: T, lg K
-300.0 12.322
+Systematic error = -4.000e-01, total error = 4.000e-01
+lg T, eV; lg K
+-1.587e+00 1.232e+01

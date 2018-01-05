@@ -1,4 +1,4 @@
 Reference: Paulson, S.E.; Orlando, J.J.; Tyndall, G.S.; Calvert, J.G. // Int. J. Chem. Kinet. 27 (1995), 997.
-Systematic error = 0.026, total error = 0.026
-Data: T, lg K
-300.0 12.748
+Systematic error = 2.598e-02, total error = 2.598e-02
+lg T, eV; lg K
+-1.587e+00 1.275e+01

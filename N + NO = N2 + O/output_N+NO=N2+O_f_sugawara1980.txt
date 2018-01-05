@@ -1,5 +1,5 @@
 Reference: Sugawara, K.; Ishikawa, Y.; Sato, S. // Bull. Chem. Soc. Jpn. 53 (1980), 3159.
-Systematic error = 0.602, total error = 0.605
-Data: T, lg K
-298.0 13.324
-298.0 13.211
+Systematic error = 6.024e-01, total error = 6.050e-01
+lg T, eV; lg K
+-1.590e+00 1.332e+01
+-1.590e+00 1.321e+01

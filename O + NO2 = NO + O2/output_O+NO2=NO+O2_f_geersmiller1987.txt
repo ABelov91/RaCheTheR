@@ -1,8 +1,8 @@
 Reference: Geers-Muller, R.; Stuhl, F. // Chem. Phys. Lett. 135 (1987), 263.
-Systematic error = 0.083, total error = 0.096
-Data: T, lg K
-233.0 12.874
-249.0 12.852
-301.0 12.788
-329.0 12.767
-357.0 12.744
+Systematic error = 8.255e-02, total error = 9.638e-02
+lg T, eV; lg K
+-1.697e+00 1.287e+01
+-1.668e+00 1.285e+01
+-1.586e+00 1.279e+01
+-1.547e+00 1.277e+01
+-1.512e+00 1.274e+01

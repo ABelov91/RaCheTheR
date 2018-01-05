@@ -1,4 +1,4 @@
 Reference: Dodonov, A.F.; Zelenov, V.V.; Talroze, V.L. // Dokl. Phys. Chem. 252 (1980), 642.
-Systematic error = 1.116, total error = 1.116
-Data: T, lg K
-295.0 13.859
+Systematic error = 1.116e+00, total error = 1.116e+00
+lg T, eV; lg K
+-1.595e+00 1.386e+01

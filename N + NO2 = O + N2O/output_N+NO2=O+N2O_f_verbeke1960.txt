@@ -1,5 +1,5 @@
 Reference: Verbeke, G.J.; Winkler C.A // J. Phys. Chem. 64 (1960), 319.
-Systematic error = 0.008, total error = 0.036
-Data: T, lg K
-500.0 12.724
-500.0 12.653
+Systematic error = 7.551e-03, total error = 3.633e-02
+lg T, eV; lg K
+-1.366e+00 1.272e+01
+-1.366e+00 1.265e+01
