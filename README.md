@@ -9,7 +9,7 @@ The chemical part of the database is organized as follows. Each folder correspon
 
 If any direct measurements of rate constants are available, they are given in separate files with references to corresponding publications. For each experimental work, revised estimations for systematic and total error are provided.
 
-If there are no directly measured data, the approximations are constructed from known approximations via the virtual experiment method. In this case, corresponding references are provided in the primary file of the reaction.
+If there are no directly measured data, the approximations are constructed from known formulae via the virtual experiment method. In this case, corresponding references are provided in the primary file of the reaction.
 
 Supplementary graphical material includes comparison of Arrhenius factor (for exothermic reactions) or effective activation energy (for exothermic reactions). The proposed value is plotted as a solid line and literature values are given with markers (their abscissas are reference numbers in alphabetical order). The black error bars denotes the original error estimations and the red ones are the revised total errors. 
 
