@@ -1,7 +1,9 @@
-# RaCheTheR
+﻿# RaCheTheR
 Database on the RAtes of CHEmical and THErmonuclear Reactions.
 
 (c) Aleksandr Belov, M.V. Lomonosov Moscow State University, Faculty of Physics
+
+System of units: temperature is measured in eV, two-particle reaction rates are in cm3/(mol s) and three-partilce ones are in cm6/(mol2 s).
 
 1)
 
