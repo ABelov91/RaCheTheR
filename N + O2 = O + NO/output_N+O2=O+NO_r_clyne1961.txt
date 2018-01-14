@@ -1,0 +1,10 @@
+Reference: Clyne, M.A.A.; Thrush, B.A. // Proc. R. Soc. London. 261 (1961), 259.
+Systematic error = 1.177e-01, total error = 1.406e-01
+lg T, eV; lg K
+-1.187e+00 1.095e+01
+-1.242e+00 1.061e+01
+-1.279e+00 1.040e+01
+-1.334e+00 9.949e+00
+-1.387e+00 9.699e+00
+-1.426e+00 9.398e+00
+-1.450e+00 9.176e+00

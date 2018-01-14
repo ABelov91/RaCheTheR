@@ -1,0 +1,5 @@
+Reference: Morley, C. // Symp. Int. Combust. Proc. 18 (1981), 23.
+Systematic error = 1.278e+00, total error = 1.282e+00
+lg T, eV; lg K
+-8.118e-01 1.348e+01
+-7.222e-01 1.367e+01

@@ -1,0 +1,7 @@
+Reference: Kistiakowsky, G.B.; Volpi, G.G. // J. Chem. Phys. 27 (1957), 1141.
+Systematic error = 2.471e-02, total error = 1.012e-01
+lg T, eV; lg K
+-1.351e+00 9.728e+00
+-1.391e+00 9.431e+00
+-1.424e+00 9.303e+00
+-1.470e+00 8.900e+00

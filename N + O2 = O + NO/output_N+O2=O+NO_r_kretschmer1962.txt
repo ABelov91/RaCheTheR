@@ -1,0 +1,4 @@
+Reference: Kretschmer, C.B.; Petersen, H.L. // J. Chem. Phys. 39 (1963), 1772.
+Systematic error = -5.185e-01, total error = 5.185e-01
+lg T, eV; lg K
+-1.521e+00 7.699e+00
