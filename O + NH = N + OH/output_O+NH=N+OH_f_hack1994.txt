@@ -1,0 +1,4 @@
+Reference: Hack, W.; Wagner, H.Gg.; Zaspypkin, A. // Ber. Bunsenges. Phys. Chem. 98 (1994), 156.
+Systematic error = -1.138e+00, total error = 1.138e+00
+lg T, eV; lg K
+-1.590e+00 1.275e+01
