@@ -1,9 +1,7 @@
 ﻿# RaCheTheR
 Database on the RAtes of CHEmical and THErmonuclear Reactions.
 
-Developed by Aleksandr Belov, M.V. Lomonosov Moscow State University, Faculty of Physics
-
-System of units: temperature is measured in eV, two-particle reaction rates are in cm3/(mol s) and three-partilce ones are in cm6/(mol2 s).
+Cite as A.A. Belov and N.N. Kalitkin. RaCheTheR database on the Rates of Chemical and Thermonuclear Reactions. Keldysh Institute of Applied Mathematics RAS, Lomonosov Moscow State University, Moscow.
 
 1)
 
@@ -18,6 +16,8 @@ Supplementary graphical material includes comparison of the Arrhenius factor (fo
 If direct experimental data are available, they are plotted in 1/T-lg K coordinates along with the proposed approximation (solid line).
 
 Error bars in all plots correspond to 1 standard deviation.
+
+The two-particle reaction rates are in cm3/(mol s) and three-partilce ones are in cm6/(mol2 s), the temperature is in eV.
 
 2)
 
@@ -34,6 +34,8 @@ The thermonuclear part of the database includes the 4 major reactions accounted 
 (e) Fourier coefficients of the reaction rate table (see formula (19) of ref. [2]).
 
 The error estimations are obtained by the virtual experiment method.
+
+The S-factors are in mbn eV, the reaction rates are in cm3/s, the energy and temperature are in eV.
 
 [1] NEA Data Bank – Nuclear Data Services. http://www.oecd-nea.org/janisweb/search/exfor
 
