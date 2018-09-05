@@ -1,7 +1,7 @@
 ﻿# RaCheTheR
 Database on the RAtes of CHEmical and THErmonuclear Reactions.
 
-Cite as A.A. Belov and N.N. Kalitkin. RaCheTheR database on the Rates of Chemical and Thermonuclear Reactions. Keldysh Institute of Applied Mathematics RAS, Lomonosov Moscow State University, Moscow.
+Cite as: Belov A.A., Kalitkin N.N. RaCheTheR database on the Rates of Chemical and Thermonuclear Reactions. Keldysh Institute of Applied Mathematics RAS, Lomonosov Moscow State University, Moscow.
 
 1)
 
