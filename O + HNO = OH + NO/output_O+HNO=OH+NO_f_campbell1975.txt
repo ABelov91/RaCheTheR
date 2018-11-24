@@ -1,4 +1,4 @@
 Reference: Campbell, I.M.; Handy, B.J. // J. Chem. Soc. Faraday Trans. 1. 71 (1975), 2097.
-Systematic error = 1.242e+00, total error = 1.242e+00
-lg T, eV; lg K
--1.436e+00 1.461e+01
+Systematic error = 1.2325, total error = 1.2325
+lg T, eV; lg K, cm3/(mol s)
+-1.4362 14.6128

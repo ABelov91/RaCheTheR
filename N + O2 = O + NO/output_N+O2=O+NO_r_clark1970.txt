@@ -1,4 +1,4 @@
 Reference: Clark, I.D.; Wayne, R.P. // Proc. R. Soc. London A. 316 (1970), 539.
-Systematic error = 6.030e-01, total error = 6.030e-01
-lg T, eV; lg K
--1.585e+00 8.035e+00
+Systematic error = 0.6363, total error = 0.6363
+lg T, eV; lg K, cm3/(mol s)
+-1.5846 8.0350

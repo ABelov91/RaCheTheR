@@ -1,8 +1,8 @@
 Reference: Clyne, M.A.A.; Thrush, B.A. // Nature (London). 189 (1961), 56.
-Systematic error = -5.456e+00, total error = 5.519e+00
-lg T, eV; lg K
--1.187e+00 8.257e+00
--1.241e+00 7.842e+00
--1.279e+00 7.416e+00
--1.334e+00 6.553e+00
--1.387e+00 5.979e+00
+Systematic error = -5.2972, total error = 5.3626
+lg T, eV; lg K, cm3/(mol s)
+-1.1867 8.2572
+-1.2415 7.8418
+-1.2791 7.4159
+-1.3341 6.5534
+-1.3870 5.9790

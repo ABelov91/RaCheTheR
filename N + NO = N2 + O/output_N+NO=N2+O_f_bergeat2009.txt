@@ -1,8 +1,8 @@
 Reference: Bergeat, A. et al. // Phys. Chem. Chem. Phys. 11 (2009), 8149.
-Systematic error = 7.448e-01, total error = 7.490e-01
-lg T, eV; lg K
--1.740e+00 1.330e+01
--1.842e+00 1.340e+01
--1.971e+00 1.342e+01
--2.207e+00 1.338e+01
--2.383e+00 1.354e+01
+Systematic error = 0.9032, total error = 0.9067
+lg T, eV; lg K, cm3/(mol s)
+-1.7403 13.2983
+-1.8419 13.4030
+-1.9712 13.4232
+-2.2073 13.3818
+-2.3834 13.5432

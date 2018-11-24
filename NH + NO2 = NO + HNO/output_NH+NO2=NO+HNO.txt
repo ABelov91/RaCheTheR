@@ -1,7 +1,7 @@
 Arrhenius parameters:
-lg A  = 1.120e+01 pm 1.079e-01 
-Confidence: mean deviation = 7.029e-15, mean squared deviation 1.017e+00 
+lg A  = 11.1958 pm 0.1079 
+Confidence: mean deviation = 0.0000, mean squared deviation 1.0171 
 The approximation is constructed by the virtual experiment method using the following known approximations:
 Reference: Westley, F. // NSRDS-NBS 67, 1980.
-Estimated error = 5.911e-01
+Estimated error = 0.5911
 

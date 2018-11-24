@@ -1,8 +1,8 @@
 Reference: Howard, M.J.; Smith, I.W.M. // J. Chem. Soc. Faraday Trans. 2. 77 (1981), 997.
-Systematic error = -1.035e-02, total error = 3.958e-02
-lg T, eV; lg K
--1.667e+00 1.352e+01
--1.587e+00 1.346e+01
--1.491e+00 1.348e+01
--1.416e+00 1.348e+01
--1.353e+00 1.341e+01
+Systematic error = 0.0050, total error = 0.0385
+lg T, eV; lg K, cm3/(mol s)
+-1.6667 13.5248
+-1.5875 13.4555
+-1.4906 13.4761
+-1.4162 13.4848
+-1.3528 13.4081

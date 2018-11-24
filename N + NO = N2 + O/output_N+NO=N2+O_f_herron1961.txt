@@ -1,4 +1,4 @@
 Reference: Herron, J.T. // J. Chem. Phys. 35 (1961), 1138.
-Systematic error = 3.349e-01, total error = 3.349e-01
-lg T, eV; lg K
--1.587e+00 1.300e+01
+Systematic error = 0.4934, total error = 0.4934
+lg T, eV; lg K, cm3/(mol s)
+-1.5875 13.0000

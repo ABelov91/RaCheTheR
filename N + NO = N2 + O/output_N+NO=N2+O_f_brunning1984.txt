@@ -1,4 +1,4 @@
 Reference: Brunning, J.; Clyne, M.A.A. // J. Chem. Soc. Faraday Trans. 2. 80 (1984), 1001.
-Systematic error = 4.221e-01, total error = 4.221e-01
-lg T, eV; lg K
--1.595e+00 1.309e+01
+Systematic error = 0.5806, total error = 0.5806
+lg T, eV; lg K, cm3/(mol s)
+-1.5948 13.0872

@@ -1,4 +1,4 @@
 Reference: Dodonov, A.F.; Zelenov, V.V.; Strunin, V.P.; Talroze, V.L. // Kinet. Catal. 22 (1981), 689.
-Systematic error = 1.151e+00, total error = 1.151e+00
-lg T, eV; lg K
--1.595e+00 1.389e+01
+Systematic error = 1.2041, total error = 1.2041
+lg T, eV; lg K, cm3/(mol s)
+-1.5948 13.8935

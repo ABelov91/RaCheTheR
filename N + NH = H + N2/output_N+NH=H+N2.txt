@@ -1,13 +1,13 @@
 Arrhenius parameters:
-lg A  = 1.156e+01 pm 9.493e-02 
-Confidence: mean deviation = 2.029e-01, mean squared deviation 8.601e-01 
+lg A  = 11.5822 pm 0.0974 
+Confidence: mean deviation = 0.1915, mean squared deviation 0.8668 
 The approximation is constructed by the virtual experiment method using the following known approximations:
 Reference: Bochkov, M.V.; Lovachev, L.A.; Chetverushkin, B.N. // Mat. modelirovanie. 4:9 (1992), 3.
-Estimated error = 7.641e-01
+Estimated error = 0.7901
 
 Reference: Caridade, P.JSB.; Rodrigues, S.PJ.; Sousa, F.; Varandas, A.JC. // J. Phys. Chem. A. 109 (2005), 2356.
-Estimated error = 8.113e-01
+Estimated error = 0.8372
 
 Reference: Miller, J.A. et al. // Symp. Int. Combust. Proc. 20 (1985), 673.
-Estimated error = 1.463e+00
+Estimated error = 1.4358
 

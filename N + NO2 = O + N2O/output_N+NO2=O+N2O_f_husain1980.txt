@@ -1,4 +1,4 @@
 Reference: Husain, D.; Slater N.K.H. // Chem. Soc. Faraday Trans. 2. 76 (1980), 606.
-Systematic error = 6.805e-01, total error = 6.805e-01
-lg T, eV; lg K
--1.587e+00 1.336e+01
+Systematic error = 0.7873, total error = 0.7873
+lg T, eV; lg K, cm3/(mol s)
+-1.5875 13.3617

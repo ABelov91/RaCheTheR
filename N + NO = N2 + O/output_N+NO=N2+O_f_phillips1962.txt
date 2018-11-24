@@ -1,4 +1,4 @@
 Reference: Phillips, L.F.; Schiff, H.I. // J. Chem. Phys. 36 (1962), 1509.
-Systematic error = -1.072e-01, total error = 1.072e-01
-lg T, eV; lg K
--1.587e+00 1.256e+01
+Systematic error = 0.0513, total error = 0.0513
+lg T, eV; lg K, cm3/(mol s)
+-1.5875 12.5579

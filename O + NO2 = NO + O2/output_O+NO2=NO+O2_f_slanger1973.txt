@@ -1,8 +1,8 @@
 Reference: Slanger, T.G.; Wood, B.J.; Black, G. // Int. J. Chem. Kinet. 5 (1973), 615.
-Systematic error = 4.511e-02, total error = 5.341e-02
-lg T, eV; lg K
--1.686e+00 1.281e+01
--1.683e+00 1.278e+01
--1.593e+00 1.276e+01
--1.593e+00 1.273e+01
--1.593e+00 1.274e+01
+Systematic error = 0.0888, total error = 0.0932
+lg T, eV; lg K, cm3/(mol s)
+-1.6862 12.8132
+-1.6826 12.7841
+-1.5933 12.7620
+-1.5933 12.7340
+-1.5933 12.7435

@@ -1,4 +1,4 @@
 Reference: Howard, M.J.; Smith, I.W.M. // Chem. Phys. Lett. 69 (1980), 40.
-Systematic error = -1.498e-03, total error = 1.498e-03
-lg T, eV; lg K
--1.590e+00 1.348e+01
+Systematic error = 0.0139, total error = 0.0139
+lg T, eV; lg K, cm3/(mol s)
+-1.5904 13.4787

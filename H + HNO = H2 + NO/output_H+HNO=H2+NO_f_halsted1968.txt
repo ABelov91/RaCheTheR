@@ -1,4 +1,4 @@
 Reference: Halstead, C.J.; Jenkins, D.R. // Chem. Phys. Lett. 2 (1968), 281.
-Systematic error = 9.401e-01, total error = 9.401e-01
-lg T, eV; lg K
--7.636e-01 1.368e+01
+Systematic error = 0.9932, total error = 0.9932
+lg T, eV; lg K, cm3/(mol s)
+-0.7636 13.6827

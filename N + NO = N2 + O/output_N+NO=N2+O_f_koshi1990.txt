@@ -1,6 +1,6 @@
 Reference: Koshi, M.; Yoshimura, M.; Fukuda, K.; Matsui, H. // J. Chem. Phys. 93 (1990), 8703.
-Systematic error = 4.803e-01, total error = 4.809e-01
-lg T, eV; lg K
--8.605e-01 1.318e+01
--7.642e-01 1.311e+01
--7.057e-01 1.315e+01
+Systematic error = 0.6387, total error = 0.6392
+lg T, eV; lg K, cm3/(mol s)
+-0.8605 13.1761
+-0.7642 13.1139
+-0.7057 13.1461

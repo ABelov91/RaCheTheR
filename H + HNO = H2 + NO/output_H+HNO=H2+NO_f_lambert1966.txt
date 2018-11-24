@@ -1,4 +1,4 @@
 Reference: Lambert, R.M. // J. Chem. Soc. Chem. Commun. 1966, 850.
-Systematic error = -2.311e+00, total error = 2.311e+00
-lg T, eV; lg K
--1.593e+00 1.043e+01
+Systematic error = -2.2581, total error = 2.2581
+lg T, eV; lg K, cm3/(mol s)
+-1.5933 10.4314

@@ -1,7 +1,7 @@
 Reference: Agrawalla, B.S.; Manocha, A.S.; Setser, D.W. // J. Phys. Chem. 85 (1981), 2873.
-Systematic error = -1.403e-01, total error = 1.733e-01
-lg T, eV; lg K
--1.587e+00 1.364e+01
--1.587e+00 1.388e+01
--1.587e+00 1.382e+01
--1.587e+00 1.389e+01
+Systematic error = -0.1503, total error = 0.1815
+lg T, eV; lg K, cm3/(mol s)
+-1.5875 13.6371
+-1.5875 13.8767
+-1.5875 13.8211
+-1.5875 13.8937

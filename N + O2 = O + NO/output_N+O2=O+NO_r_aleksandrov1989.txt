@@ -1,4 +1,4 @@
 Reference: Aleksandrov, E.P.; Vedeneev, V.I.; Kozlov, S.N.; Pryakhin, G.A. // Bull. Acad. Sci. USSR Div. Chem. Sci. 37 (1989), 2170.
-Systematic error = 2.210e-01, total error = 2.210e-01
-lg T, eV; lg K
--1.598e+00 7.477e+00
+Systematic error = 0.2558, total error = 0.2558
+lg T, eV; lg K, cm3/(mol s)
+-1.5977 7.4771
